@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Bulbasaur",
+    "japanese": "フシギダネ",
+    "id": "#0001",
+    "type": ["grass", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png/revision/latest/scale-to-width-down/200?cb=20200620223551",
+    "info": "It is one of the three First partner Pokémon that can be chosen in the Kanto region.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/0/03/001.png/revision/latest?cb=20230417224926"
+  },
+  {
+    "name": "Ivysaur",
+    "japanese": "フシギソウ",
+    "id": "#0002",
+    "type": ["grass", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/7/73/002Ivysaur.png/revision/latest/scale-to-width-down/200?cb=20140328190847",
+    "info": "Pokémon introduced in Generation I. It evolves from Bulbasaur starting at level 16 and evolves into Venusaur starting at level 32.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/002.png/revision/latest?cb=20230417225044"
+  },
+  {
+    "name": "Venusaur",
+    "japanese": "フシギバナ",
+    "id": "#0003",
+    "type": ["grass", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/a/ae/003Venusaur.png/revision/latest/scale-to-width-down/200?cb=20200731133335",
+    "info": "It is the mascot for Pokémon Green and Pokémon LeafGreen and the final form of Bulbasaur.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png/revision/latest?cb=20230417225125"
+  },
+  {
+    "name": "Charmander",
+    "japanese": "ヒトカゲ",
+    "id": "#0004",
+    "type": ["fire"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/187?cb=20200620223744",
+    "info": "Along with Bulbasaur and Squirtle, Charmander is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/d/d5/004.png/revision/latest?cb=20230417230140"
+  },
+  {
+    "name": "Charmeleon",
+    "japanese": "リザード",
+    "id": "#0005",
+    "type": ["fire"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/4/4a/005Charmeleon.png/revision/latest/scale-to-width-down/200?cb=20140328191309",
+    "info": "Charmeleon is a small, bipedal, dinosaur-like Pokémon with an appearance similar to that of its pre-evolved form, Charmander.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/2/20/005.png/revision/latest?cb=20230417230247"
+  },
+  {
+    "name": "Charizard",
+    "id": "#0006",
+    "japanese": "リザードン",
+    "type": ["fire", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/7/7e/006Charizard.png/revision/latest/scale-to-width-down/200?cb=20200731134217",
+    "info": "It can Mega Evolve into either Mega Charizard X, using the Charizardite X or Mega Charizard Y, using the Charizardite Y. It has a Gigantamax form. Mega Charizard X has its Flying changed into Dragon-typing. It is the mascot for Pokémon Red and its remake, Pokémon FireRed.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png/revision/latest?cb=20230417230359"
+  },
+  {
+    "name": "Squirtle",
+    "id": "#0007",
+    "japanese": "ゼニガメ",
+    "type": ["water"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/178?cb=20200620223922",
+    "info": "It evolves into Wartortle starting at level 16. It is one of the three First partner Pokémon that can be chosen in Kanto region.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/e/e8/007.png/revision/latest?cb=20230417231712"
+  },
+  {
+    "name": "Wartortle",
+    "id": "#0008",
+    "japanese": "カメール",
+    "type": ["water"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/0/0c/008Wartortle.png/revision/latest/scale-to-width-down/200?cb=20140328191553",
+    "info": "It is the evolved form of Squirtle. They use water to cloak themselves before attacking prey and swiftly swimming after them, using their ears and tails to balance themselves.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/1/17/008.png/revision/latest?cb=20230417231851"
+  },
+  {
+    "name": "Blastoise",
+    "id": "#0009",
+    "japanese": "カメックス",
+    "type": ["water"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/0/02/009Blastoise.png/revision/latest/scale-to-width-down/190?cb=20200731133731",
+    "info": "Blastoise is the evolved form of Wartortle, and the final evolution of Squirtle. It is also the version mascot for Pokémon Blue. It has a Mega Evolution and a Gigantamax form. Blastoise can take the role of a leader in large groups of Squirtle and Wartortle. Its preferred habitat seems to be freshwater ponds and lakes. Blastoise are watchful Pokémon. They dislike humans in their territory, but will not attack unless provoked. They tend to fight when they sense danger.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/d/d2/009.png/revision/latest?cb=20230417233513"
+  },
+  {
+    "name": "Caterpie",
+    "id": "#0010",
+    "japanese": "キャタピー",
+    "type": ["bug"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/5/5d/010Caterpie.png/revision/latest/scale-to-width-down/200?cb=20201109201919",
+    "info": "Caterpie are known for their great appetites, usually eating many leaves before creating cocoons to evolve. They use self-made silk to both produce cocoons for evolution. As weak, soft-bodied Pokémon, Caterpie attempt to gather as much energy as possible to hasten their evolutions into Metapod, and afterwards into Butterfree. ",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/5/5c/010.png/revision/latest?cb=20230417234814"
+  },
+  {
+    "name": "Metapod",
+    "id": "#0011",
+    "japanese": "トランセル",
+    "type": ["bug"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/c/cd/011Metapod.png/revision/latest/scale-to-width-down/200?cb=20140328191749",
+    "info": "To avoid attacks, these Pokémon stay motionless and simply ​wait. Metapod are remarkably patient, enduring whatever pain they must to reach their final stages. They must remain upright while biding their time or risk spilling out their innards.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/9/96/011.png/revision/latest?cb=20230417234945"
+  },
+  {
+    "name": "Butterfree",
+    "id": "#0012",
+    "japanese": "バタフリー",
+    "type": ["bug", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/d/d1/012Butterfree.png/revision/latest/scale-to-width-down/200?cb=20140328191825",
+    "info": "Butterfree is an insect-like Pokémon appearing as a large butterfly. In its Gigantamax form, Bufferfree's body has a larger frame with red glowing eyes.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/b/b8/012.png/revision/latest?cb=20230417235015"
+  },
+  {
+    "name": "Weedle",
+    "id": "#0013",
+    "japanese": "ビードル",
+    "type": ["bug", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/d/df/013Weedle.png/revision/latest/scale-to-width-down/200?cb=20140328191838",
+    "info": "The stingers and brightly colored bodies of these Pokémon are intended to ward off potential predators who would not enjoy a mouthful of toxins. Weedle also have a sharp sense of smell, using their nose-like proboscises to sense which leaves are safe to consume.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/c/cf/013.png/revision/latest?cb=20230418001354"
+  },
+  {
+    "name": "Kakuna",
+    "id": "#0014",
+    "japanese": "コクーン",
+    "type": ["bug", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/f/f0/014Kakuna.png/revision/latest/scale-to-width-down/200?cb=20140328191918",
+    "info": "Weedle seek out trees, branches or piles of leaves to hide in; when they evolve into Kakuna, their ability to move becomes severely restricted, and they can only inch about very slowly. They can sometimes be seen hanging from tree branches on strands of silk in large numbers. Kakuna can only learn Harden naturally.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/5/52/014.png/revision/latest?cb=20230418001457"
+  },
+  {
+    "name": "Beedrill",
+    "id": "#0015",
+    "japanese": "スピアー",
+    "type": ["bug", "poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/6/61/015Beedrill.png/revision/latest/scale-to-width-down/200?cb=20140328191940",
+    "info": "Beedrill is extremely territorial and will attack anyone who gets too close to their hive. They are aggressive Pokémon and collectively attack the people around them.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png/revision/latest?cb=20230418001613"
+  },
+  {
+    "name": "Pidgey",
+    "id": "#0016",
+    "japanese": "ポッポ",
+    "type": ["normal", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/5/55/016Pidgey.png/revision/latest/scale-to-width-down/200?cb=20140328192030",
+    "info": "Pidgey are very docile Pokémon that prefer to avoid confrontation with other Pokémon and humans altogether, hiding in tall grass to prevent themselves from being seen. If cornered, though, they will attempt to escape by using Sand Attack to blind foes or Whirlwind to blow them away and buy themselves time to fly away.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/5/5c/016.png/revision/latest?cb=20230418002237"
+  },
+  {
+    "name": "Pidgeotto",
+    "id": "#0017",
+    "japanese": "ピジョン",
+    "type": ["normal", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/7/7a/017Pidgeotto.png/revision/latest/scale-to-width-down/200?cb=20140328192046",
+    "info": "Pidgeotto has outstanding vision as it is able to distinguish its prey from high distances. It is able to carry its prey for over 60 miles.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/c/cf/017.png/revision/latest?cb=20230418002311"
+  },
+  {
+    "name": "Pidgeot",
+    "id": "#0018",
+    "japanese": "ピジョット",
+    "type": ["normal", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/5/57/018Pidgeot.png/revision/latest/scale-to-width-down/200?cb=20140328192120",
+    "info": "It is the evolved form of Pidgeotto, and the final evolution of Pidgey. Pidgeot is even more dangerous than its previous evolutionary stage. This is because it is bulkier and more aggressive than Pidgeotto, enabling it to catch much bigger prey. A favorite target is Magikarp, which Pidgeot can spot from a great distance.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/d/d1/018.png/revision/latest?cb=20230418002335"
+  },
+  {
+    "name": "Rattata",
+    "id": "#0019",
+    "japanese": "コラッタ",
+    "type": ["normal"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/4/46/019Rattata.png/revision/latest/scale-to-width-down/200?cb=20140328192134",
+    "info": "Rattata's teeth grow very quickly and they can survive almost anywhere. It's happy to nest just about anywhere. They also utilize their teeth so they can use attacks such as Super Fang and Bite.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/0/01/019.png/revision/latest?cb=20230418030701"
+  },
+  {
+    "name": "Raticate",
+    "id": "#0020",
+    "japanese": "ラッタ",
+    "type": ["normal"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/f/f4/020Raticate.png/revision/latest/scale-to-width-down/200?cb=20140328192215",
+    "info": "To compensate for its steadily growing teeth, Raticate gnaws on hard things such as buildings, even being able to topple them down when doing so. Also, its webbed feet allow it to swim well when it hunts.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/8/8d/020.png/revision/latest?cb=20230418030756"
+  },
+  {
+    "name": "Spearow",
+    "id": "#0021",
+    "japanese": "オニスズメ",
+    "type": ["normal", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/8/8b/021Spearow.png/revision/latest/scale-to-width-down/200?cb=20140328192232",
+    "info": "They are noted for being frail, for which they make up for with their Mirror Move ability. Eggs laid by Spearow are known to be prey for hungry Ekans, which are known to be able to swallow them whole.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/8/82/021.png/revision/latest?cb=20230418030920"
+  },
+  {
+    "name": "Fearow",
+    "id": "#0022",
+    "japanese": "オニドリル",
+    "type": ["normal", "flying"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/a/a0/022Fearow.png/revision/latest/scale-to-width-down/200?cb=20140328192324",
+    "info": "Fearow uses its great wings to catch air currents and effortlessly glide over large distances for as long as a day without having to land or rest. It flies high into the sky, and swoops down at its prey. By using a combination of its neck and beak, it has a long reach, allowing it to pluck bugs from the ground or easily pluck prey from soil or water as it swoops down. If it senses danger, it avoids it if possible.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png/revision/latest?cb=20230418030948"
+  },
+  {
+    "name": "Ekans",
+    "id": "#0023",
+    "japanese": "アーボ",
+    "type": ["poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/f/fa/023Ekans.png/revision/latest/scale-to-width-down/200?cb=20140328192338",
+    "info": "Ekans, like real snakes, have the ability to unhinge their jaws. Ekans also share other characteristics with snakes, such as using its tongue to test the air for the presence of prey and shedding its skin. An Ekans will lose its rattle once it evolves into Arbok.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/e/ee/023.png/revision/latest?cb=20230418031219"
+  },
+  {
+    "name": "Arbok",
+    "id": "#0024",
+    "japanese": "アーボック",
+    "type": ["poison"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/c/cd/024Arbok.png/revision/latest/scale-to-width-down/200?cb=20140328200611",
+    "info": "Arbok has the abilities Intimidate and Shed Skin along with the hidden ability Unnerve. Intimidate lowers the opponent's attack stat when the player enters battle while Shed Skin cures Arbok from status ailments at the end of a turn with a 30% chance. Unnerve prevents the opponent from eating its berry. A powerful constrictor, Arbok can crush a steel barrel in its mighty coils.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/a/a0/024.png/revision/latest?cb=20230418031245"
+  },
+  {
+    "name": "Pikachu",
+    "id": "#0025",
+    "japanese": "ピカチュウ",
+    "type": ["electric"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/0/0d/025Pikachu.png/revision/latest/scale-to-width-down/200?cb=20200620223403",
+    "info": "Pikachu is renowned for being the most well-known and recognizable Pokémon. Over the years, Pikachu has become so popular that it serves as the Pokémon franchise mascot. It is the Version Mascot and First partner Pokémon for the game Pokémon Yellow and its remake, Pokémon: Let's Go, Pikachu!. It is also well known from the anime, where Ash Ketchum, the former protagonist, owns a Pikachu.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/0/0a/025.png/revision/latest?cb=20230418000732"
+  },
+  {
+    "name": "Raichu",
+    "id": "#0026",
+    "japanese": "ライチュウ",
+    "type": ["electric"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/8/88/026Raichu.png/revision/latest/scale-to-width-down/200?cb=20140328192425",
+    "info": "Raichu can generate electricity through its cheeks and electrocute its opponents. The highest amount of electricity it can discharge to take down its foes are 100,000 volts.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/b/b3/026.png/revision/latest?cb=20230418000802"
+  },
+  {
+    "name": "Sandshrew",
+    "id": "#0027",
+    "japanese": "サンド",
+    "type": ["ground"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/9/9e/027Sandshrew.png/revision/latest/scale-to-width-down/200?cb=20140328192538",
+    "info": "Sandshrew, when in danger, can curl into a ball to defend itself. They can also claw away sharp rock that impede their digging. Alolan Sandshrew lack flexibility and cannot curl into a ball but have an excelling natural defense which makes up for this. They also have natural maneuverability on ice.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/e/e3/027.png/revision/latest?cb=20230420234004"
+  },
+  {
+    "name": "sandslash",
+    "id": "#0028",
+    "japanese": "サンドパン",
+    "type": ["ground"],
+    "image": "https://static.wikia.nocookie.net/pokemon/images/0/0b/028Sandslash.png/revision/latest/scale-to-width-down/200?cb=20140328192555",
+    "info": "Introduced in Generation I, and an Ice/Steel-type Pokémon introduced in Generation VII which is exclusive to Pokémon Moon. Sandslash evolves from Sandshrew at level 22, and Alolan Sandslash evolves from Alolan Sandshrew when an Ice Stone is used on it.",
+    "pixel-image": "https://static.wikia.nocookie.net/pokemon/images/e/e7/028.png/revision/latest?cb=20230419013345"
+  }
+]
